@@ -4,6 +4,17 @@
      list-style: none;
      font-size: 1.2rem;
      font-family: arial;
+     }
+     
+     .logo{
+        width: 200px;
+        }
+
+        a{
+            text-decoration: none;
+            color: aqua;
+        }
+    
     .heade{
         background-color: mistyrose;
         display: flex;
