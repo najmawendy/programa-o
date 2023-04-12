@@ -41,3 +41,40 @@
         width: 20%;
     }    
     
+.imagem{
+    width: 300px; 
+    height: auto;
+    }
+
+    .item{
+        display:flex;
+        justify-content: flex-end;
+        align-items: flex-start
+        /* border: 2px solid #FD5A96; */
+        margim: 10px
+        }
+
+        .paragrafo{
+            padding: 50px;
+            text-align: justify;
+            }
+
+            .footer{
+                background-color: darkseagreen;
+                pad: 15px;
+                color: black;
+                font-size: 30px;
+                }
+
+                .redesSocial{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+
+                .redeLogo{
+                margim: 10px;
+                padding: 5px;
+                width: 30px;
+                height: auto;
+                }
